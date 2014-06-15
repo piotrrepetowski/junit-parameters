@@ -15,7 +15,7 @@
         <dependency>
             <groupId>net.sf.twip</groupId>
             <artifactId>twip</artifactId>
-            <version>3.0</version>
+            <version>3.3</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.databene</groupId>
             <artifactId>feed4junit</artifactId>
-            <version>1.0.1</version>
+            <version>1.1.5</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
