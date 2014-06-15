@@ -1,0 +1,12 @@
+ testAdd,a,b,expected
+        ,0,0,0
+        ,1,1,2
+        ,1,2,3
+        ,2,1,3
+
+testIsEmptyString,input,expected
+                 ,"",true
+                 ,,true
+                 ,    ,true
+                 ,foo,false
+                 ,  foo  ,false

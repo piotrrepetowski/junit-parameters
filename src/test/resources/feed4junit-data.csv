@@ -1,0 +1,6 @@
+input,expected,
+"",true,
+,true,
+"    ",true,
+foo,false,
+"  foo  ",false,
