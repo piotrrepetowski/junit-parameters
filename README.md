@@ -17,7 +17,7 @@ Tested extensions (so far):
 - com.tngtech.java / junit-dataprovider
 - org.easetech / easytest-core
 - org.databene / feed4junit
+- net.sf.twip / twip
 
 Not checked (yet):
-- net.sf.twip / twip
 - org.callbackparams / callbackparams
