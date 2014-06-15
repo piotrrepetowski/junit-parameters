@@ -6,6 +6,7 @@ It is about finding best solution for running parameterized junit tests. JUnit p
 There are a few extensions which are aimed to fill the gap. I want to find the one that best fits my needs.
 
 My needs:
+- must be compatible with junit,
 - be able to run parameterized method,
 - managed through pom.xml,
 - easy in setup and use.
