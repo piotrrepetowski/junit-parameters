@@ -18,7 +18,7 @@ public class EasyTestApplicationLogicTest {
 
     @Test
     public void testIsEmptyString(@Param(name = "input") String input, @Param(name = "expected") boolean expected) {
-        // You can pas either null or empty string for param but not both.
+        // You can pass either null or empty string for param but not both.
         assertEquals(expected, ApplicationLogic.isEmptyString(input));
     }
 }
